@@ -6,7 +6,7 @@
       "run": "javac Recursion.java && java Recursion",
       "input": "",
       "output": "Factorial of 3 is 6\r\nFactorial of 4 is 24\r\nFactorial of 5 is 120",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 10,
       "points": 10
     }
